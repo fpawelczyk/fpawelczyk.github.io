@@ -229,6 +229,8 @@ GEM
     multipart-post (2.1.1)
     nokogiri (1.18.8-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.18.8-x64-mingw-ucrt)
+      racc (~> 1.4)
     nokogiri (1.18.8-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.18.8-x86_64-linux-gnu)
@@ -274,6 +276,7 @@ PLATFORMS
   universal-darwin-20
   universal-darwin-21
   universal-darwin-23
+  x64-mingw-ucrt
   x86_64-linux
 
 DEPENDENCIES
