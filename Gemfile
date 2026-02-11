@@ -2,6 +2,7 @@ source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-theme-minimal"
 gem "jekyll-include-cache"
+gem "webrick"
 
 # github security update
 gem "nokogiri", ">= 1.11.0.rc4"
